@@ -1,1 +1,3 @@
-# student_management_system
+Inventory_management_system
+
+In This project, I built an inventory management system
